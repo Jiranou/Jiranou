@@ -1,0 +1,15 @@
+{
+  "hash": "2b81b51136ef36054a8a2984017822d5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Jiran Ou\"\n---\n\n\n#I am currently a master degree student at University of California, Los Angeles (UCLA), majoring in Statistics & Data Science.\n\nattached is my current [cv](Jiran%20Ou%20Resume.pdf)\n\n[follow me on LinkedIn](https://www.linkedin.com/in/jiran-ou-262409247/)\n\n[Email me](jiran1999@g.ucla.edu)\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
